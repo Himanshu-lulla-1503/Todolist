@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Himanshu-lulla-1503/todolistreact.git/static/css/main.64e1f454.chunk.css",
+    "main.js": "/Himanshu-lulla-1503/todolistreact.git/static/js/main.67ad9050.chunk.js",
+    "main.js.map": "/Himanshu-lulla-1503/todolistreact.git/static/js/main.67ad9050.chunk.js.map",
+    "runtime-main.js": "/Himanshu-lulla-1503/todolistreact.git/static/js/runtime-main.f28c6cdc.js",
+    "runtime-main.js.map": "/Himanshu-lulla-1503/todolistreact.git/static/js/runtime-main.f28c6cdc.js.map",
+    "static/js/2.152e3f07.chunk.js": "/Himanshu-lulla-1503/todolistreact.git/static/js/2.152e3f07.chunk.js",
+    "static/js/2.152e3f07.chunk.js.map": "/Himanshu-lulla-1503/todolistreact.git/static/js/2.152e3f07.chunk.js.map",
+    "index.html": "/Himanshu-lulla-1503/todolistreact.git/index.html",
+    "static/css/main.64e1f454.chunk.css.map": "/Himanshu-lulla-1503/todolistreact.git/static/css/main.64e1f454.chunk.css.map",
+    "static/js/2.152e3f07.chunk.js.LICENSE.txt": "/Himanshu-lulla-1503/todolistreact.git/static/js/2.152e3f07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28c6cdc.js",
+    "static/js/2.152e3f07.chunk.js",
+    "static/css/main.64e1f454.chunk.css",
+    "static/js/main.67ad9050.chunk.js"
+  ]
+}
