@@ -1,6 +1,6 @@
 {
-  "name": "todolist",
   "homepage": "https://himanshu-lulla-1503.github.io/todolistreact",
+  "name": "todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
